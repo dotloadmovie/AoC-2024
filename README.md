@@ -1,2 +1,1 @@
-# AoC-2024
-Advent of Code 2024
+A basic TS boiler plate for AoC with almost everything except the testing removed
